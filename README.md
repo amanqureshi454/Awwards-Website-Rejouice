@@ -4,10 +4,14 @@ Welcome to Rejoice Website, a stunning and immersive web experience crafted with
 
 ## Screenshots
 
+![Rejoiuce](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/8a5dc2a6-1cb9-44ce-a489-82750c4de69d)
 
-![Rejoiuce](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/2d9543e5-aba1-4971-b6ff-1f79588051ac)
-![Rejouice-2](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/61c56938-c066-4f9c-ad32-a2e489622e9d)
-![Rejouice-3](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/e4b6ee64-b2cd-4a46-9184-49b9f037d95e)
+
+![Rejouice-2](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/ddb1db34-0fbf-4b63-b22f-bd6cfc43b2f1)
+
+
+![Rejouice-3](https://github.com/amanqureshi454/Awwards-Website-Rejouice/assets/119878277/b903bed3-8056-4d7e-916b-923b41e6621d)
+
 
 
 
