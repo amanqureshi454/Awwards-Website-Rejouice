@@ -1,11 +1,11 @@
 
 "use client"
-import About from "@/components/About";
-import Footer from "@/components/Footer";
-import Hero from "@/components/Hero";
-import Reviews from "@/components/Reviews";
-import Services from "@/components/Services";
-import Slider from "@/components/Slider";
+import About from "@/Components/About";
+import Footer from "@/Components/Footer";
+import Hero from "@/Components/Hero";
+import Reviews from "@/Components/Reviews";
+import Services from "@/Components/Services";
+import Slider from "@/Components/Slider";
 import Image from "next/image";
 import { useEffect } from "react";
 
